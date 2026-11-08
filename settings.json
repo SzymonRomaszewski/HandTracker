@@ -1,0 +1,19 @@
+{
+  "camera": 0,
+  "tracking_pause_seconds": 30,
+  "sensitivity": 1.0,
+  "smoothing_ms": 30,
+  "dwell_seconds": 1.5,
+  "cursor": true,
+  "dwell_click": true,
+  "pinch_click": true,
+  "drag": true,
+  "right_click": true,
+  "scroll": true,
+  "desktop_switch": true,
+  "mission_control": true,
+  "fullscreen": true,
+  "minimize": true,
+  "volume": true,
+  "calibrated_area": null
+}
